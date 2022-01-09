@@ -1,5 +1,14 @@
 # Ultrasound
 
+
+This is the the data set necessary to reproduce  results from the the dissertation "Modellbildung mittels Symbolischer Regression zur Messunsicherheitsbestimmung komplexer Messprozesse". 
+
+Author: Mueller, Tobias 
+
+Chair of Production Metrology and Quality Management at the Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University - Campus Boulevard 30, 52074 Aachen, Germany
+
+Please cite this code or the data set as: BibTex will be added after publication
+
 This dataset contains 1882 length measurements with ultrasound for different settings of 8 measures (e.g. gain and bandwidth). For more information about the ultrasound dataset, please contact Tobias Müller (mlb, T.Mueller@wzl.rwth-aachen.de).
 
 # License
