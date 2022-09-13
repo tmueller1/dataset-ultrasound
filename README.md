@@ -9,7 +9,7 @@ Chair of Production Metrology and Quality Management at the Laboratory for Machi
 
 Please cite this code or the data set as: BibTex will be added after publication
 
-This dataset contains 1882 length measurements with ultrasound for different settings of 8 measures (e.g. gain and bandwidth). For more information about the ultrasound dataset, please contact Tobias Müller (mlb, T.Mueller@wzl.rwth-aachen.de).
+This dataset contains 1882 length measurements with ultrasound for different settings of 8 measures (e.g. gain and bandwidth). For more information about the ultrasound dataset, please contact Tobias Müller (mlb, T.Mueller@wzl-mq.rwth-aachen.de).
 
 # License
 
